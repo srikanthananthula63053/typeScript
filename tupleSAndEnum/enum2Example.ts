@@ -19,7 +19,7 @@ const resultUser: User = CreateUser({
     id: 123,
     name: "srikanth",
     role: UserRole.Admin,
-    contact:["sree@233","1232132"]
+    contact: ["sree@233", "1232132"]
 
 })
 
